@@ -8,7 +8,7 @@
             "img2": "https://www.maisonmargiela.com/13/13781217bp_29_r.jpg",
             "col": ["blue"],
             "key": "바지",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 1,
@@ -19,7 +19,7 @@
             "img2": "https://www.maisonmargiela.com/12/12743559mb_29_b.jpg",
             "col": ["light green", "light blue"],
             "key": "티셔츠",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 2,
@@ -30,7 +30,7 @@
             "img2": "https://www.maisonmargiela.com/17/17213247ff_29_r.jpg",
             "col": ["carmel", "white"],
             "key": "신발",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 3,
@@ -41,7 +41,7 @@
             "img2": "https://www.maisonmargiela.com/46/46834818vi_29_d.jpg",
             "col": ["beige"],
             "key": "모자",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 4,
@@ -52,7 +52,7 @@
             "img2": "https://www.maisonmargiela.com/14/14221502in_29_r.jpg",
             "col": ["ivory", "brown"],
             "key": "티셔츠",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 5,
@@ -63,7 +63,7 @@
             "img2": "https://www.maisonmargiela.com/45/45664598cp_29_b.jpg",
             "col": ["white", "black", "brown"],
             "key": "가방",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 6,
@@ -74,7 +74,7 @@
             "img2": "https://www.maisonmargiela.com/13/13771605ft_29_r.jpg",
             "col": ["blue"],
             "key": "바지",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 7,
@@ -85,7 +85,7 @@
             "img2": "https://www.maisonmargiela.com/17/17203779ht_29_r.jpg",
             "col": ["white", "beige"],
             "key": "신발",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 8,
@@ -96,7 +96,7 @@
             "img2": "https://www.maisonmargiela.com/45/45669590sf_29_r.jpg",
             "col": ["black", "blue", "white"],
             "key": "가방",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 9,
@@ -107,7 +107,7 @@
             "img2": "https://www.maisonmargiela.com/12/12743325ip_29_b.jpg",
             "col": ["sky blue", "beige", "light green"],
             "key": "티셔츠",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 10,
@@ -118,7 +118,7 @@
             "img2": "https://www.maisonmargiela.com/17/17068535pf_29_r.jpg",
             "col": ["white"],
             "key": "신발",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 11,
@@ -129,7 +129,7 @@
             "img2": "https://www.maisonmargiela.com/13/13781173an_29_r.jpg",
             "col": ["white"],
             "key": "바지",
-            "menu": "M"
+            "man": "M"
         },
         {
             "id": 12,
@@ -140,7 +140,7 @@
             "size": ["S", "M", "L"],
             "col": ["blue"],
             "key": "티셔츠",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 13,
@@ -151,7 +151,7 @@
             "img2": "https://www.maisonmargiela.com/13/13745793uf_29_r.jpg",
             "col": ["blue"],
             "key": "바지",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 14,
@@ -162,7 +162,7 @@
             "img2": "https://www.maisonmargiela.com/45/45671907lq_29_r.jpg",
             "col": ["tan"],
             "key": "가방",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 15,
@@ -173,7 +173,7 @@
             "img2": "https://www.maisonmargiela.com/12/12771950bt_29_r.jpg",
             "col": ["black"],
             "key": "티셔츠",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 16,
@@ -184,7 +184,7 @@
             "img2": "https://www.maisonmargiela.com/45/45671899ar_29_r.jpg",
             "col": ["black"],
             "key": "가방",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 17,
@@ -195,7 +195,7 @@
             "img2": "https://www.maisonmargiela.com/45/45661447ht_29_r.jpg",
             "col": ["black"],
             "key": "가방",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 18,
@@ -206,7 +206,7 @@
             "img2": "https://www.maisonmargiela.com/13/13742072pq_29_r.jpg",
             "col": ["black", "ochre gold"],
             "key": "바지",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 19,
@@ -217,7 +217,7 @@
             "img2": "https://www.maisonmargiela.com/45/45664607gl_29_r.jpg",
             "col": ["black", "white"],
             "key": "가방",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 20,
@@ -228,7 +228,7 @@
             "img2": "https://www.maisonmargiela.com/45/45670206gh_29_r.jpg",
             "col": ["brown"],
             "key": "가방",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 21,
@@ -239,7 +239,7 @@
             "img2": "https://www.maisonmargiela.com/16/16119818pl_29_r.jpg",
             "col": ["beige"],
             "key": "티셔츠",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 22,
@@ -250,7 +250,7 @@
             "img2": "https://www.maisonmargiela.com/16/16116605sm_29_r.jpg",
             "col": ["dark blue"],
             "key": "티셔츠",
-            "menu": "W"
+            "woman": "W"
         },
         {
             "id": 23,
@@ -261,7 +261,7 @@
             "img2": "https://www.maisonmargiela.com/17/17222458qh_29_r.jpg",
             "col": ["white", "carmel", "tan"],
             "key": "신발",
-            "menu": "W"
+            "woman": "W"
         }
     ]
 
