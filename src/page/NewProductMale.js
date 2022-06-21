@@ -4,6 +4,7 @@ import MaleProductCard from "../component/MaleProductCard";
 
 const NewProductMale = () => {
   const [productList, setProductList] = useState([]);
+
   const getProduct = async () => {
     let url = `https://my-json-server.typicode.com/AppleKimkijun/react-margiela/maleProducts`;
 

@@ -73,7 +73,7 @@ const NavBar = ({authenticate,setAuthenticate}) => {
         <div className="search_wrap">
          <div>Search</div> 
          <div className="input_wrap">
-          <input type="text" placeholder="ex) 티셔츠,지갑,바지" onKeyPress={(event)=>{
+          <input type="text" placeholder="ex) 티셔츠,가방,바지" onKeyPress={(event)=>{
             if(event.key === "Enter"){
               searchEnter(event);search(event);
             }
