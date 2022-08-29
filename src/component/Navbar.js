@@ -87,7 +87,7 @@ const NavBar = ({authenticate,setAuthenticate}) => {
             <div className={`nav_menu ${menuOpen ? 'active' : ''}`} style={{cursor:"pointer"}} onClick={menu}><div className='menu_icon'></div>Menu</div>
             <div style={{cursor:"pointer"}} className={`nav_search ${searchOpen ? 'active' : ''}`} onClick={search}><img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9T8Ba-n6sBjpK1IoD2i3AZO9BOL6vzuLt2A&usqp=CAU' style={{width:"20px",marginRight:"10px"}}></img>Search</div>
         </div>
-        <img src="https://www.maisonmargiela.com/ytos/resources/MMMARGIELA/images/svg_img/logo.svg" alt="logo" onClick={goToHome} style={{cursor:"pointer"}}/>
+        <img src="https://cdn.mustit.co.kr/lib/upload/community/2020/01/1578548001-8.png" alt="logo" onClick={goToHome} style={{cursor:"pointer"}}/>
         <div className="nav_r">
             <div style={{cursor:"pointer"}} onClick={goToLogin}><FontAwesomeIcon icon={faUser} style={{marginRight : "10px"}}/>{authenticate == true?<div style={{marginLeft:"2px"}} onClick={logOut}>Sign Out</div>:"Sign in"}</div>
             <div style={{cursor:"pointer"}}><FontAwesomeIcon icon={faShoppingBag} style={{marginRight : "10px"}}/>0</div>

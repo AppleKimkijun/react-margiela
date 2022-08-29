@@ -22,7 +22,7 @@ const NewProductMale = () => {
       <div className="sub_title_wrap">
         <div className="sub_img">
           <img
-            src="https://www.maisonmargiela.com/cloud/margielawp/uploads/2022/05/cp_mm_newarrivals_men__May13_dk.jpg?impolicy=margiela-modulePlpMainModule&imdensity=1&imwidth=1832"
+            src="https://img.ihanstyle.com/files/upload/display/202011/202011060954531.jpg"
             alt=""
             style={{ width: "60vw", height: "30vw" }}
           />

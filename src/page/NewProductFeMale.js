@@ -19,7 +19,7 @@ const NewProductFeMale = () => {
       <div className="sub_title_wrap">
         <div className="sub_img">
           <img
-            src="https://www.maisonmargiela.com/cloud/margielawp/uploads/2022/06/ecp_mm_womennewsin_dk.jpg?impolicy=margiela-modulePlpMainModule&imdensity=1&imwidth=1832"
+            src="https://mblogthumb-phinf.pstatic.net/MjAxOTEyMDNfMjIz/MDAxNTc1MzQwMTg5NTgy.VwzGws8AyrUgrkpNtFrBzps696qdfmYJF44P3RrC8D4g.CSxapA9kwPz16PHOmQLxswxrtAvvoGJv2BV28Jc_MfMg.JPEG.h_unny/NaverBlog_20191203_112949_61.jpg?type=w2"
             alt=""
             style={{ width: "60vw", height: "30vw" }}
           />
