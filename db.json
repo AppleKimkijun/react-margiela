@@ -229,28 +229,8 @@
             "color":["black"],
             "key":["상의","티셔츠"]
 
-        },
-        {
-            "id":4,
-            "img":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw3e1ac55d/images/large/SI0CT0010_S24366_900_F.jpg?sw=1024&q=80",
-            "title":"울 드레스",
-            "price":"₩ 2,940,000",
-            "size":["S","M","L"],
-            "img2":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw0f1a13de/images/large/SI0CT0010_S24366_900_D.jpg?sw=1024&q=80",
-            "color":["black"],
-            "key":["드레스"]
-
-        },
-        {
-            "id":5,
-            "img":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw4115592b/images/large/SI1BN0007_S60309_524_F.jpg?sw=1024&q=80",
-            "title":"울 트윌 블레이저",
-            "price":"₩ 2,940,000",
-            "size":["One Size"],
-            "img2":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dwc22c2702/images/large/SI1BN0007_S60309_524_A.jpg?sw=1024&q=80",
-            "color":["black"],
-            "key":["상의"]
         }
+        
         
 
     ]
