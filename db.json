@@ -42,17 +42,6 @@
             "color":["black"],
             "key":["신발"]
 
-        },
-        {
-            "id":4,
-            "img":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw4f982478/images/large/SI1AM0008_S30561_966_F.jpg?sw=1024&q=80",
-            "title":"크롭드 칼라리스 데님 재킷",
-            "price":"₩ 1,428,000",
-            "size":["S","M","L"],
-            "img2":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw3d28e7db/images/large/SI1AM0008_S30561_966_R.jpg?sw=1024&q=80",
-            "color":["blue","brown"],
-            "key":["상의","셔츠","티"]
-
         }
     ],
     "feMaleProducts":[
@@ -108,27 +97,6 @@
             "color":["Nude"],
             "key":["바지","하의"]
 
-        },
-        {
-            "id":5,
-            "img":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw2489bb9c/images/large/SI0CT0005_S60381_107F_F.jpg?sw=1024&q=80",
-            "title":"체크드 울 드레스",
-            "price":"₩ 3,185,000",
-            "size":["One Size"],
-            "img2":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw5831bc0d/images/large/SI0CT0005_S60381_107F_R.jpg?sw=1024&q=80",
-            "color":["Ecru"],
-            "key":["상의","드레스"]
-
-        },
-        {
-            "id":6,
-            "img":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw2cd9283a/images/large/SI0TH0004_S48109_855M_F.jpg?sw=1024&q=80",
-            "title":"울 타바드",
-            "price":"₩ 756,000",
-            "size":["S","M","L"],
-            "img2":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dwe2ba4e82/images/large/SI0TH0004_S48109_855M_D.jpg?sw=1024&q=80",
-            "color":["black","ochre gold"],
-            "key":["상의","바지","팬츠","와이드"]
         }
        
     ],
@@ -175,16 +143,6 @@
             "color":["green","black"],
             "key":["지갑","가죽","월렛"]
 
-        },
-        {
-            "id":4,
-            "img":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw92750356/images/large/SA3UI0019_P5016_H7730_F.jpg?sw=1024&q=80",
-            "title":"미러 체인 지갑",
-            "price":"₩ 924,000",
-            "size":["One Size"],
-            "img2":"https://www.maisonmargiela.com/dw/image/v2/AAPK_PRD/on/demandware.static/-/Sites-margiela-master-catalog/default/dw65ca4ae1/images/large/SA3UI0019_P5016_H7730_R.jpg?sw=1024&q=80",
-            "color":["silver"],
-            "key":["지갑","가죽","실버"]
         }
     ],
     "productsAll":[
